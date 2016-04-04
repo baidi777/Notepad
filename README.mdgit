@@ -1,0 +1,1 @@
+# Notepad initgit add README.mdgit commit -m first commitgit remote add originhttps://github.com/baidi777/Notepad.gitgit push -u origin master
